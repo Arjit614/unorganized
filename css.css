@@ -1,0 +1,75 @@
+body{
+	background-color:#ffcf79;
+	text-align:center;
+}
+p.para1{
+color:black;
+background-color:aqua;
+font-family:Edwardian script ITC;	
+font-size:25px;
+}
+ul{
+	color:firebrick;
+	background-color:#50F010;
+	font-family:Curlz MT;
+	font-size:25px;
+}
+ol{
+	color:#01EDFF;
+	background-color:#2B01FF;
+	font-family:brush script MT;
+	font-size:25px;
+}
+table{
+	font-family:brush script mt;
+	color:#1bff15;
+	font-size:25px;
+	border:2px solid black;
+	background-image:url(avengers.png);
+}
+div{
+	color:#01EDFF;
+	background-color:firebrick;
+	font-family:freestyle script;
+	font-size:25px;
+	border:5px dashed gold;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+form.form1{
+	color:gold;
+	background-color:firebrick;
+}
+form.form2{
+	color:blue;
+	background-color:yellow;
+}
+img{
+	height:250px;
+	width:250px;
+	border:25px ridge silver; 
+}
+h1{
+	color:yellow;
+	text-align:center;
+	background-color:white;
+}
+h2{
+	color:yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
