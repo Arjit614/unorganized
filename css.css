@@ -1,0 +1,54 @@
+body{
+	background-color:#2a2b5f;
+}
+.para1{
+color:#150485;
+background-color:#3dc4d0;
+font-family:Edwardian script ITC;
+font-size:25px;
+}
+table{
+	font-family:brush script mt;
+	color:#1bff15;
+	font-size:25px;
+	border:2px solid black;
+	background-image:url(avengers.png);
+}
+.form1{
+	color:#150485;
+	background-color:#3dc4d0;
+}
+.form2{
+	color:#150485;
+	background-color:#3dc4d0;
+}
+img{
+	height:250px;
+	width:250px;
+	border:25px ridge silver;
+}
+.para5{
+	font-size:50px;
+	color:#150485;
+	background-color:#3dc4d0;
+}
+table{
+border-spacing:30px;
+
+}
+a{
+	text-decoration:none;
+
+	}
+	a:hover{
+		font-size:30px;
+	}
+.para2{
+	Font-size:25px;
+	color:#150485;
+	background-color:#3dc4d0;
+}
+h1,h2{
+color:#150485;
+background-color:#3dc4d0;
+}
